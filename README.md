@@ -6,6 +6,8 @@ I enjoy building cool projects, exploring new technologies, and sharing what I l
 
 📫 Contact Me
 ✉️ Email: aadilinamdar27@gmail.com
+
+Linktree:https://linktr.ee/aadilinamdar
 [Linktree](https://linktr.ee/aadilinamdar)
 
 🚀 Let's Build Together!

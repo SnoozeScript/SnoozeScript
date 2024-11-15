@@ -5,7 +5,7 @@ Hi, I’m Aadil 👋
 I enjoy building cool projects, exploring new technologies, and sharing what I learn along the way. Whether it’s web development, machine learning, or just fun side projects, I’m always up for something new.
 
 📫 Contact Me
-✉️ Email: aadilinamdar27@gmail.com
+✉️: aadilinamdar27@gmail.com
 
 Linktree: https://linktr.ee/aadilinamdar
 

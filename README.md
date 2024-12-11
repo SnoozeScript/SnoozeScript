@@ -1,6 +1,6 @@
-Binge. Chill. Repeat. 🔄📺
-
 Hi, I’m Aadil 👋
+
+![giphy](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 I enjoy building cool projects, exploring new technologies, and sharing what I learn along the way. Whether it’s web development, machine learning, or just fun side projects, I’m always up for something new.
 

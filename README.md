@@ -4,7 +4,9 @@ Hi, I’m Aadil
 
 ✉️: aadilinamdar27@gmail.com
 
-Linktree: https://linktr.ee/aadilinamdar
+🌐: https://aadilinamdar.vercel.app
+
+🔗: https://linktr.ee/aadilinamdar
 
 🚀 Let's Build Together!
 Feel free to reach out if you want to collaborate on exciting projects or just chat about tech,anime and games.

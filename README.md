@@ -1,1 +1,1 @@
-My compiler understands me better than most people.
+I'm Aadil, a student of Artificial Intelligence and Machine Learning at Sanjay Ghodawat University. This is a portfolio and archive of my journey to explore and understand how technology works—from the logic behind algorithms to the cool things we can build with AI, software, and the web

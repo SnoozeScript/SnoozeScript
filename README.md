@@ -1,6 +1,6 @@
 
 ## 👋 Howdy
-
+[<img src="https://www.kindpng.com/picc/m/587-5879917_image-of-sleepy-todoroki-pin-badge-sleepy-todoroki.png" align="right" width="100">](https://github.com/snoozescript)
 I'm Aadil, an Artificial Intelligence and Machine Learning student at Sanjay Ghodawat University. This is a portfolio and archive of my journey to explore how machines think, learn, and help us build better technology—from the foundations of logic and code to real-world AI projects, web apps, and beyond.
 
 <!-- 

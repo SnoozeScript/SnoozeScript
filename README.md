@@ -1,9 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=SnoozeScript&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SnoozeScript&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnoozeScript&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-
-
-
 # Aadil Inamdar
 
 #### *Intern [@Anthaathi](https://github.com/anthaathi)*
@@ -47,13 +41,17 @@ Kolhapur, Maharashtra, India
 ## Featured Projects
 
 1. **FarmGenius**: A comprehensive agricultural platform empowering farmers with AI-driven insights.
-   - [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/404) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://404-snowy.vercel.app/)
+   
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/404) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://404-snowy.vercel.app/)
 
 2. **OtakuHaven**: An immersive entertainment discovery platform providing personalized recommendations.
-   - [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/OtakuHaven) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://otaku-haven-alpha.vercel.app/)
 
-3. **Chat Assistant**: A versatile AI chat interface enabling interaction with multiple LLMs.
-   - [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/ChatAssistant) [![Demo](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://snoozescript-chat.streamlit.app/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/OtakuHaven) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://otaku-haven-alpha.vercel.app/)
 
-4. **Text2Vox**: A browser-based text-to-speech tool using HuggingFace models.
-   - [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/Text2Vox) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://text2-vox.vercel.app/)
+4. **Chat Assistant**: A versatile AI chat interface enabling interaction with multiple LLMs.
+   
+     [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/ChatAssistant) [![Demo](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://snoozescript-chat.streamlit.app/)
+
+5. **Text2Vox**: A browser-based text-to-speech tool using HuggingFace models.
+
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/Text2Vox) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://text2-vox.vercel.app/)

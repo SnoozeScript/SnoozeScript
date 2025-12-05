@@ -55,3 +55,21 @@ Kolhapur, Maharashtra, India
 5. **Text2Vox**: A browser-based text-to-speech tool using HuggingFace models.
 
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SnoozeScript/Text2Vox) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://text2-vox.vercel.app/)
+
+
+
+   ---
+<div align="center">
+  <a href="https://www.linkedin.com/in/aadilinamdar27">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://aadilinamdar27.me/">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  
+  <a href="https://aadilinamdar27.me/resume/">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+

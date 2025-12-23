@@ -64,11 +64,11 @@ Kolhapur, Maharashtra, India
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://aadilinamdar27.me/">
+  <a href="https://aadilinamdar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   
-  <a href="https://aadilinamdar27.me/resume/">
+  <a href="https://aadilinamdar.vercel.app/resume/">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
 </div>
